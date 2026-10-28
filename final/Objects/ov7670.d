@@ -1,0 +1,16 @@
+.\objects\ov7670.o: ov7670.c
+.\objects\ov7670.o: C:\Users\brtru\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\ov7670.o: C:\Users\brtru\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\objects\ov7670.o: ../driverlib/sysctl.h
+.\objects\ov7670.o: ../driverlib/i2c.h
+.\objects\ov7670.o: ../inc/hw_types.h
+.\objects\ov7670.o: ../inc/hw_memmap.h
+.\objects\ov7670.o: ../inc/hw_ints.h
+.\objects\ov7670.o: ../driverlib/rom.h
+.\objects\ov7670.o: ../driverlib/rom_map.h
+.\objects\ov7670.o: ../driverlib/pin_map.h
+.\objects\ov7670.o: ../driverlib/gpio.h
+.\objects\ov7670.o: ov7670.h
+.\objects\ov7670.o: C:\Users\brtru\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\inttypes.h
+.\objects\ov7670.o: ov7670reg.h
+.\objects\ov7670.o: pins.h
